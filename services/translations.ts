@@ -76,7 +76,7 @@ export const translations = {
     inbound: '接收',
     outbound: '发送',
 
-    terminalTitle: 'Netty 报文日志',
+    terminalTitle: '报文日志',
     searchPlaceholder: '搜索日志...',
     clearLogs: '清空',
     noLogs: '暂无报文捕获...',
