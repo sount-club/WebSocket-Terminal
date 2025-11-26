@@ -1,0 +1,5 @@
+{
+  "name": "WebSocket Terminal",
+  "description": "A professional WebSocket dashboard to test, monitor, and interact with Java Netty WebSocket services. Features heartbeat tracking, auth simulation, and real-time message broadcasting.",
+  "requestFramePermissions": []
+}
